@@ -17,8 +17,8 @@ export const Hero = () => {
       <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-gia-purple via-gia-blue to-gia-teal bg-clip-text text-transparent">
         Meet Gia
       </h1>
-      <p className="text-xl md:text-2xl text-gray-600 max-w-2xl mb-8">
-        A universal, self-orchestrating AI assistant designed to understand, plan, and execute complex tasks across any domain.
+      <p className="text-xl md:text-2xl text-gray-600 max-w-3xl mb-8">
+        A universal, self-orchestrating AI assistant designed to autonomously understand, plan, and execute complex tasks across any domain by leveraging local AI models and dynamic tool creation.
       </p>
       <Button 
         onClick={handleGetStarted}

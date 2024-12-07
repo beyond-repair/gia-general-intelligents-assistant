@@ -2,13 +2,13 @@ import { CheckCircle2 } from "lucide-react";
 
 const capabilities = [
   "Autonomous Problem Solving",
-  "Information Gathering",
-  "Development & Execution",
-  "Adaptive Intelligence",
-  "Web Scraping",
+  "Dynamic Tool Generation",
+  "Full-Stack Development",
   "GitHub Integration",
+  "Web Scraping",
   "Local Model Inference",
-  "Dynamic Dependency Management",
+  "Context-Aware Reasoning",
+  "Self-Correction & Optimization",
 ];
 
 export const Capabilities = () => {

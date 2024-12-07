@@ -4,22 +4,22 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 const features = [
   {
     title: "Universal Task Comprehension",
-    description: "Understands and executes complex tasks across any domain",
+    description: "Complete autonomy in understanding and executing tasks across any domain",
     icon: Brain,
   },
   {
     title: "Dynamic Tool Creation",
-    description: "Generates and deploys custom tools and agents as needed",
+    description: "Self-generates and deploys custom tools and agents as needed",
     icon: Wrench,
   },
   {
     title: "Autonomous Workflow",
-    description: "Self-orchestrates complex problem-solving workflows",
+    description: "Self-orchestrates complex problem-solving with minimal human intervention",
     icon: Workflow,
   },
   {
     title: "Local AI Integration",
-    description: "Leverages local AI models for enhanced privacy and speed",
+    description: "Leverages local AI models for enhanced privacy and performance",
     icon: Code,
   },
 ];
